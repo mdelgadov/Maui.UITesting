@@ -3,7 +3,7 @@ using Microsoft.Maui.Automation.RemoteGrpc;
 
 namespace Microsoft.Maui.Automation
 {
-	public interface IApplication
+	public interface IApplication 
 	{
 		public Platform DefaultPlatform { get; }
 
